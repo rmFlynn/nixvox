@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=nixvox
+Exec=nixvox
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

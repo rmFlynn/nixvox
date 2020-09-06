@@ -1,0 +1,7 @@
+data/org.rmflynn.nixvox.desktop.in
+data/org.rmflynn.nixvox.appdata.xml.in
+data/org.rmflynn.nixvox.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
